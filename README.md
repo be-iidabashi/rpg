@@ -1,9 +1,17 @@
 # 実行方法
 
+
 ## 仮想環境の作成とpygameのインストール
+```python
 python3 -m venv .venv
 source .venv/bin/activate
 pip install pygame
+```
+
+## ゲームの起動
+```python
+python3 main.py
+```
 
 ## ※ 参考
 ### make_res.py
