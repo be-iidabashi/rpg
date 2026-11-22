@@ -1,0 +1,4 @@
+numpy==2.5.4
+pillow==12.3.0
+pyxel==2.9.9
+pyxel-universal-font==1.1.1
